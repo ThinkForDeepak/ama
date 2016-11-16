@@ -4,7 +4,7 @@
 
 I get a lot of questions by email. This way anyone can read the answer!
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means *anything*. College/ University Student Career Guidance, Algorithms,  Personal questions, Money, Work, Life or Specially Code- Whatever. I would give a honest try to with best answer.
 
 -
 
@@ -18,6 +18,5 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### Links
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
+- [Read more AMAs](https://github.com/ThinkForDeepak/AMA)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
